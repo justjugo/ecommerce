@@ -19,3 +19,6 @@ Secure checkout process
 Integration with payment gateways
 
 Responsive design for optimal viewing on all devices
+
+![vegetable-website-template](https://github.com/justjugo/ecommerce/assets/135487556/35f731bb-bdf1-4ba8-9946-d2840b306a27)
+
